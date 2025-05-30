@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Mithra 👋
 
-<!--
-**MithraSK/MIthraSK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science student | 📊 Data Analyst | 💻 Python & ML Enthusiast
 
-Here are some ideas to get you started:
+🔍 Interests: Data Analysis, Machine Learning, Forecasting, and AI for social good.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost
+- **Tools**: Jupyter Notebook, Git, Power BI
+- **Others**: Time Series, Predictive Modeling, Data Visualization
+
+## 📂 Featured Projects
+
+📫 Reach me on [LinkedIn](www.linkedin.com/in/mithra-sampath46) or email me at mithrask46@gmail.com
