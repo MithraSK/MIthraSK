@@ -11,7 +11,6 @@ Hi, I'm Mithra 👋
 - **Others**: Time Series, Predictive Modeling, Data Visualization
 
 ## 📂 Featured Projects
-## 🚀 Featured Projects
 
 ### 📊 Student Performance Analysis
 A beginner-friendly project exploring student exam performance based on gender, test preparation, and parental education levels.
